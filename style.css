@@ -1,0 +1,110 @@
+body {
+    background-color: rgb(56, 49, 49);
+    margin: 20px 80px;
+  }
+
+  #h1 {
+    color: white;
+  }
+
+  #h1:hover {
+    color: blue;
+  }
+
+  img {
+    border: 5px solid rgb(233, 230, 209);
+  }
+
+  a {
+    color: darkorange;
+  }
+  
+  a:hover {
+    color: green;
+  }
+
+  a:visited {
+    color: rgb(93, 93, 129);
+  }
+
+  h1 {
+    color: rgb(237, 198, 24);
+  }
+  
+  h2 {
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(237, 198, 24);
+  }
+
+  li {
+    font-size: 20px;
+    color: rgb(200, 235, 200);
+  }
+
+footer {   
+    color: rgb(200, 235, 200);
+  }
+  
+  .header {
+    font-family: monospace;
+  }
+  
+  .header h1 {
+    font-size: 40px;
+    font-weight: bold;
+    padding: 80px 60px;
+  }
+  
+  .header h1, h2 {
+    text-align: center;
+  }
+  
+  p {
+    font-size: 20px;
+    text-align: justify;
+    color: rgb(238, 233, 191);
+    padding: 0 15px;
+  }
+  
+  table, thead, tr, td {
+    border: 2px solid rgb(238, 233, 191);
+    border-collapse: collapse;
+    font-size: 20px;
+    text-align: justify;
+    color: rgb(200, 235, 200);
+  }
+
+  td {
+    padding: 0 15px;
+  }
+  
+  .highlight {
+    background-color: rgb(36, 160, 201);
+    color: white;
+  }
+  
+  .red {
+    color: rgb(196, 31, 75);
+  }
+  
+  .purple {
+    color: purple;
+  }
+  
+  .lime {
+    color: lime;
+  }
+  
+  .light-green {
+    color: rgb(14, 237, 211);
+  }
+  
+  .blue {
+    color: blue;
+  }
+  
+  .gold {
+    color: rgb(237, 198, 24);
+  }
+  
